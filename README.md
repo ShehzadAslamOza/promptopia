@@ -22,5 +22,5 @@ Promptopia is an open-source AI prompting tool for the modern world to discover,
 
 ✅ Next.js API Routes
 
-🎓 Learned to create with [JavaScript Mastery](https://www.youtube.com/watch?v=wm5gMKuwSYk) ❤️
+🎓 Learned to create this with [JavaScript Mastery](https://www.youtube.com/watch?v=wm5gMKuwSYk) ❤️
 
