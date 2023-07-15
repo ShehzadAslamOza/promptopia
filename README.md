@@ -38,3 +38,5 @@ NEXTAUTH_URL_INTERNAL=[NEXTAUTH_URL_INTERNAL]
 NEXTAUTH_SECRET=[NEXTAUTH_SECRET]
 
 ```
+
+![Website Screenshot]("public\assets\images\screenshot.png")
