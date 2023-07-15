@@ -39,4 +39,4 @@ NEXTAUTH_SECRET=[NEXTAUTH_SECRET]
 
 ```
 
-![Website Screenshot]("https://github.com/ShehzadAslamOza/promptopia/blob/main/public/assets/images/screenshot.png?raw=true")
+![Website Screenshot](https://github.com/ShehzadAslamOza/promptopia/blob/main/public/assets/images/screenshot.png?raw=true)
